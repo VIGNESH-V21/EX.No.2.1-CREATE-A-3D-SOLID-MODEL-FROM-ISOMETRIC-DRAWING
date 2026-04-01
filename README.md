@@ -2,7 +2,7 @@
 ## Date:
 
 ## AIM
-To create a 3Dmodel from the given isometric drawing using fusion 360 tool. 
+To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 ## REQUIREMENTS
 1. Autodesk fusion 360
